@@ -1,0 +1,17 @@
+# Arquivos do MySQL Workbench
+*.sql
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Logs e Temporários
+*.log
+*.tmp
+*.bak
